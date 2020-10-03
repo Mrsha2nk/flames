@@ -1,12 +1,12 @@
 {
   "name": "@flames/next-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "dont use this library in anyway (just a test)",
   "author": "shashank mishra",
   "main": "src/index.js",
   "license": "MIT",
   "dependencies": {
-    "@flames/presentational": "^0.1.0"
+    "@flames/presentational": "^0.1.1"
   },
   "repository": {
     "type": "git",
