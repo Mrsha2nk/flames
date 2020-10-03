@@ -1,6 +1,16 @@
 {
   "name": "@flames/presentational",
   "version": "0.1.0",
+  "description": "dont use this library in anyway (just a test)",
+  "author": "shashank mishra",
   "main": "src/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrsha2nk/flames.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mrsha2nk/flames/issues"
+  },
+  "homepage": "https://github.com/Mrsha2nk/flames#readme"
 }
