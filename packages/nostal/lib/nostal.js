@@ -3,5 +3,6 @@
 module.exports = nostal;
 
 function nostal() {
-  return "NOSTALGIC";
+  const MSG = "NOSTALGIC";
+  return MSG;
 }
