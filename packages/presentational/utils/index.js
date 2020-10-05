@@ -23,9 +23,17 @@ const mult = (a, b) => a * b;
  */
 const div = (a, b) => a / b;
 
+/**
+ *
+ * @param {number} a
+ * @param {number} b
+ */
+const mod = (a,b)=> a % b;
+
 module.exports = {
   add,
   sub,
   mult,
   div,
+  mod
 };
